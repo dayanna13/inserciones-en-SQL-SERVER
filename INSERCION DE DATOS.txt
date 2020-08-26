@@ -1,0 +1,28 @@
+insert into CLIENTE values
+(1,1,'Andreina Garcia','1317803846','andregar@gmail.com','0997654297'),
+(2,2,'Tony Cobeña','1318906354','Tonycob@gmail.com','0987654287'),
+(3,3,'Jonathan Mero','1312893407','jonathan@gmail.com','0989854295'),
+(4,4,'Josue Cobos','1342986548','cobosjos@gmail.com','0998376598'),
+(5,5,'Evangie Moreira','1319862846','EvaMore@gmail.com','0946789754');
+
+insert into SECTOR values
+(1,1,'Costa azul'),
+(2,2,'miraflores'),
+(3,3,'altamira'),
+(4,4,'villamarina'),
+(5,5,'tarqui');
+
+insert into ADMINISTRADOR values
+(1,'Idris Velazques','1357890476','idrisve@gmail.com','0987643215');
+insert into INFORMACION_DE_VALORES values
+(1,1,'03-08-2020',25),
+(1,1,'03-09-2020',30),
+(2,1,'03-09-2020',30),
+(3,1,'03-07-2020',25),
+(3,1,'03-08-2020',30),
+(3,1,'03-09-2020',30),
+(4,1,'03-06-2020',20),
+(4,1,'03-07-2020',30),
+(4,1,'03-08-2020',30),
+(4,1,'03-09-2020',30),
+(5,1,'03-09-2020',30);
